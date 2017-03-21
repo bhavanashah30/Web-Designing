@@ -1,0 +1,41 @@
+body {
+	background-color: #FCEBB6;
+	
+}
+
+#wrap {
+	width: 80%; 
+	margin: 0 auto; 
+}
+
+
+
+h2, ul, p {
+				color: #221811;
+				font-family: sans-serif;
+			}
+			
+h1{
+	color: #221811;
+	font-family: Verdana;
+	background-color: #D2B48C ;
+	text-align: center;
+	line-height: 200%;
+}
+footer{
+	color: #221811;
+	font-family: Verdana;
+	background-color: #D2B48C ;
+	text-align: center;
+	font-size: 0.6em;
+	font-style: italic;
+	
+}
+
+nav{
+	text-align: center;
+	font-weight: bold;
+}
+
+
+				
